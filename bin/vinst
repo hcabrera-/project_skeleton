@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/home/hector/Dropbox/git/verilog_instantiation_template/vinst/vinst.py  ../../exa/rtl_new/link_controller.v
+/home/hector/Dropbox/git/verilog_instantiation_template/vinst/vinst.py  ../../exa/rtl_new/fifo.v
+
